@@ -1,4 +1,4 @@
-package com.heima.dao;
+package com.llh.dao;
 public class Target {
     private String fullName;
     private int age;

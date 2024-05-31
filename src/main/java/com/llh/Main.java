@@ -1,10 +1,10 @@
-package com.heima;
+package com.llh;
 
 
-import com.heima.dao.SourceA;
-import com.heima.dao.SourceB;
-import com.heima.dao.Target;
-import com.heima.manage.MappingManager;
+import com.llh.dao.SourceA;
+import com.llh.dao.SourceB;
+import com.llh.dao.Target;
+import com.llh.manage.MappingManager;
 
 
 // 主类，演示映射过程

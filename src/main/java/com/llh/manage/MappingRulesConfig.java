@@ -1,6 +1,4 @@
-package com.heima.manage;
-
-import com.heima.manage.MappingRule;
+package com.llh.manage;
 
 import java.util.List;
 

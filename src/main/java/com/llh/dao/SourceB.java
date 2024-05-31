@@ -1,4 +1,4 @@
-package com.heima.dao;
+package com.llh.dao;
 
 // 源实体类B
 public class SourceB {
