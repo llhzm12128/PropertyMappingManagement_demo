@@ -1,0 +1,15 @@
+mappings:
+  - sourceClass: SourceA
+    targetClass: Target
+    fields:
+      - sourceField: name
+        targetField: fullName
+      - sourceField: age
+        targetField: age
+  - sourceClass: SourceB
+    targetClass: Target
+    fields:
+      - sourceField: address
+        targetField: location
+      - sourceField: phone
+        targetField: contactNumber
